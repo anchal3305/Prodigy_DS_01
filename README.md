@@ -1,5 +1,3 @@
-# Prodigy_DS_01 
-## Prodigy_Infotech_DS_Task1_Porld_population_Dataset
 ## Project On- World Population
 
 ### Domain- Data Visualization 
